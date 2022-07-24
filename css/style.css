@@ -1,7 +1,5 @@
 html {
-  /* border: 2px solid purple; */
   font-size: 1.5rem;
-  /* font-family: "Lucida Console", "Arial Narrow", "Arial", "sans-serif"; */
   font-family: "Cormorant SC", serif;
   background: linear-gradient(skyblue, orange);
   height: 100vh;
@@ -9,7 +7,6 @@ html {
 header {
   margin-bottom: 30px;
   text-align: center;
-  /* border: 2px solid green; */
 }
 select {
   font-size: 1.1rem;
@@ -17,13 +14,11 @@ select {
 .section-container {
   display: flex;
   flex-direction: row;
-  /* border: 2px solid blue; */
   padding-left: 10vw;
   padding-right: 10vw;
 }
 .column {
   flex: 1;
-  /* border: 2px solid red; */
 }
 img {
   margin-top: 30px;
